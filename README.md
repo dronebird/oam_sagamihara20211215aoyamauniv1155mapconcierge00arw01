@@ -33,10 +33,10 @@ PROJCS["WGS 84 / UTM zone 54N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84
   - [3Dモデル FBX/OBJ形式 53MB/94MB](https://drive.google.com/file/d/10zmXAxmwhferXEYXts4ZPoLQLX6_KX1H/view?usp=sharing)
 
 ### オルソモザイク
-  - [オルソモザイク](https://drive.google.com/file/d/1KfGYY3oXrgx0uPH8iGkqBuaY3KnUY_tU/view?usp=sharing)
+  - [オルソモザイク 3cm分解能 GeoTIFF形式](https://drive.google.com/file/d/1KfGYY3oXrgx0uPH8iGkqBuaY3KnUY_tU/view?usp=sharing)
 
 ### DSM
-  - [DSM](https://drive.google.com/file/d/19hFB599OsCdoiloIBw9sN0-K7sX-rNrh/view?usp=sharing)
+  - [DSM GeoTIFF形式](https://drive.google.com/file/d/19hFB599OsCdoiloIBw9sN0-K7sX-rNrh/view?usp=sharing)
 
 ## XYZタイル
 * https://tiles.openaerialmap.org/61b9d9d7b26de1000596d622/0/61b9d9d7b26de1000596d623/{z}/{x}/{y}
