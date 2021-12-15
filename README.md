@@ -4,9 +4,10 @@ oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01
 <img src="https://user-images.githubusercontent.com/416977/146176110-e13bbc47-cfc5-48b2-b69c-0c826651c2cf.jpg" width="500" >
 
 ## 撮影諸元
-* ドローン： Aerosense社製 AeroboWing AS-VT01
-* カメラ： Sony UMC-R10C
-* 
+* ドローン: Aerosense社製 AeroboWing AS-VT01
+* カメラ: Sony UMC-R10C
+* 撮影高度: 90m
+* 飛行日時: 2021/12/15 11:55-12:30 JST
 
 ## プレビュー
 * [on Pix4Dcloud](https://cloud.pix4d.com/dataset/1041613/model?shareToken=8ed2ef38-19cb-4e11-b360-960a1200d935)
