@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/416977/146176110-e13bbc47-cfc5-48b2-b69c-0c826651c2cf.jpg" width="300" >
+
 # 青山学院大学 相模原キャンパス ドローン空撮 2021
 oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01
 
