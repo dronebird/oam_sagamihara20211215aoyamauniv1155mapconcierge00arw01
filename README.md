@@ -10,6 +10,7 @@ oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01
 * 飛行日時: 2021/12/15 11:55-12:30 JST
 
 ## プレビュー
+* [on OpenAerialMap](https://map.openaerialmap.org/#/139.4027253985405,35.56669756203105,18/latest/61b9dc7ab26de1000596d625?_k=854uqh)
 * [on Pix4Dcloud](https://cloud.pix4d.com/dataset/1041613/model?shareToken=8ed2ef38-19cb-4e11-b360-960a1200d935)
 * [ひなたGIS](https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#fKPIZQXAQeVY)
 
