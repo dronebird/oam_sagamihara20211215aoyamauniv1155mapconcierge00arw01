@@ -8,6 +8,7 @@ oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01
 * カメラ: Sony UMC-R10C
 * 撮影高度: 90m
 * 飛行日時: 2021/12/15 11:55-12:30 JST
+* [詳細レポート](https://map.openaerialmap.org/#/139.4027253985405,35.56669756203105,18/latest/61b9dc7ab26de1000596d625?_k=854uqh)
 
 ## プレビュー
 * [on OpenAerialMap](https://map.openaerialmap.org/#/139.4027253985405,35.56669756203105,18/latest/61b9dc7ab26de1000596d625?_k=854uqh)
