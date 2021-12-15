@@ -8,7 +8,7 @@ oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01
 * カメラ: Sony UMC-R10C
 * 撮影高度: 90m
 * 飛行日時: 2021/12/15 11:55-12:30 JST
-* SRS は UTM zone 54N / WGS84
+* SRS は EPSG:32654, UTM zone 54N / WGS84
 ```
 PROJCS["WGS 84 / UTM zone 54N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","4326"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",141],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","32654"]]
 ```
