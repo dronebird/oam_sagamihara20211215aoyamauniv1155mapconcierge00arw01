@@ -20,13 +20,22 @@ PROJCS["WGS 84 / UTM zone 54N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84
 * [on ひなたGIS](https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html#fKPIZQXAQeVY)
 
 ## 大容量データ置き場
+### データ全体
 * [フォルダ on Google Drive](https://drive.google.com/drive/folders/1SrPOCXU9xYVeIwTsABtj8ILkC_CtIg09?usp=sharing)
+
+### 点群
   - [点群データ 切り出し済 40cm間引き LAS形式 83MB](https://drive.google.com/file/d/10zmXAxmwhferXEYXts4ZPoLQLX6_KX1H/view?usp=sharing)
   - [点群データ 切り出し済 50cm間引き LAS形式 61MB](https://drive.google.com/file/d/1wqZYy09-jMXzTM7KaYeq73Q9238tVIq6/view?usp=sharing)
   - [点群データ 切り出し済 SOR処理済 LAS形式 1.9GB](https://drive.google.com/file/d/1E995CvKBIG5JzPhoM3rI-hj8jJD1wk79/view?usp=sharing)
   - [点群データ 生データ LAS形式 3.5GB](https://drive.google.com/file/d/10zmXAxmwhferXEYXts4ZPoLQLX6_KX1H/view?usp=sharing)
+
+### 3Dモデル
   - [3Dモデル FBX/OBJ形式 53MB/94MB](https://drive.google.com/file/d/10zmXAxmwhferXEYXts4ZPoLQLX6_KX1H/view?usp=sharing)
+
+### オルソモザイク
   - [オルソモザイク](https://drive.google.com/file/d/1KfGYY3oXrgx0uPH8iGkqBuaY3KnUY_tU/view?usp=sharing)
+
+### DSM
   - [DSM](https://drive.google.com/file/d/19hFB599OsCdoiloIBw9sN0-K7sX-rNrh/view?usp=sharing)
 
 ## XYZタイル
