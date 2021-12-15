@@ -24,3 +24,6 @@ oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01
 
 ## XYZタイル
 * https://tiles.openaerialmap.org/61b9d9d7b26de1000596d622/0/61b9d9d7b26de1000596d623/{z}/{x}/{y}
+
+## ライセンス
+[© CrisisMappersJapan/DRONEBIRD/FuruhashiLab/YouthMappersAGU, CC BY 4.0](https://github.com/dronebird/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/blob/main/LICENSE.md)
