@@ -1,0 +1,13 @@
+{
+  "name": "xyztiles",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/desktop/\">MapTiler Desktop</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "15",
+  "maxzoom": "22",
+  "scale": "1.000000",
+  "bounds": [139.39837299, 35.56395749, 139.40723402, 35.56957285],
+  "profile": "mercator"
+}
