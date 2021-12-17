@@ -36,6 +36,7 @@ PROJCS["WGS 84 / UTM zone 54N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84
   - [オルソモザイク 3cm分解能 GeoTIFF形式](https://drive.google.com/file/d/1KfGYY3oXrgx0uPH8iGkqBuaY3KnUY_tU/view?usp=sharing)
   - [XYZ画像タイル PNG形式 670MB](https://drive.google.com/file/d/1Ae6kj-A1Kxt5lhfVr2rntZb165dq3wi3/view?usp=sharing)
   - [ウェブ地図実装例](https://dronebird.github.io/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/xyztiles/)
+  - [Mapbox GL JS v2 使用例](https://dronebird.github.io/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/xyztiles/mapboxgljs2_xyzrastertile.html)
 
 ### DSM
   - [DSM GeoTIFF形式](https://drive.google.com/file/d/19hFB599OsCdoiloIBw9sN0-K7sX-rNrh/view?usp=sharing)
