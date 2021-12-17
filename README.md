@@ -40,7 +40,9 @@ PROJCS["WGS 84 / UTM zone 54N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84
   - [DSM GeoTIFF形式](https://drive.google.com/file/d/19hFB599OsCdoiloIBw9sN0-K7sX-rNrh/view?usp=sharing)
 
 ## XYZタイル
+### メインXYZ画像タイル on OpenAerialMap
 * https://tiles.openaerialmap.org/61b9d9d7b26de1000596d622/0/61b9d9d7b26de1000596d623/{z}/{x}/{y}
+### サブXYZ画像タイル on GitHub Pages
 * https://dronebird.github.io/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/{z}/{x}/{y}.png
 
 ## ライセンス
