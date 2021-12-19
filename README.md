@@ -48,4 +48,4 @@ PROJCS["WGS 84 / UTM zone 54N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84
 * https://dronebird.github.io/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/xyztiles/{z}/{x}/{y}.png
 
 ## ライセンス
-[© CrisisMappersJapan/DRONEBIRD/FuruhashiLab/YouthMappersAGU, CC BY 4.0](https://github.com/dronebird/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/blob/main/LICENSE.md)
+[© CrisisMappersJapan/DRONEBIRD/FuruhashiLab/YouthMappersAGU, CC BY 4.0 / ODbL 1.0](https://github.com/dronebird/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/blob/main/LICENSE.md)
