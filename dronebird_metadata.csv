@@ -1,2 +1,2 @@
-name,name_en,description,data,xyztileurl,bbox,license,author,repositoryurl,memo
+name,name_en,description,date,xyztileurl,bbox,license,author,repositoryurl,memo
 青山学院大学相模原キャンパス,Sagamihara Campus of Aoyama Gakuin University ,Aerobo Wing を用いて相模原キャンパス上空を空撮。,2021-12-15,https://tiles.openaerialmap.org/61b9d9d7b26de1000596d622/0/61b9d9d7b26de1000596d623/{z}/{x}/{y},https://tiles.openaerialmap.org/61b9d9d7b26de1000596d622/0/61b9d9d7b26de1000596d623,CC BY 4.0,DRONEBIRD/CrisisMappersJapan,https://github.com/dronebird/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01,
