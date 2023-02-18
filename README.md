@@ -1,4 +1,4 @@
-# 青山学院大学 相模原キャンパス ドローン空撮 2021
+# 青山学院大学 相模原キャンパス ドローン空撮 20211215
 oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01
 
 <img src="https://user-images.githubusercontent.com/416977/146176110-e13bbc47-cfc5-48b2-b69c-0c826651c2cf.jpg" width="500" >
@@ -29,18 +29,27 @@ PROJCS["WGS 84 / UTM zone 54N",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84
   - [点群データ 切り出し済 SOR処理済 LAS形式 1.9GB](https://drive.google.com/file/d/1E995CvKBIG5JzPhoM3rI-hj8jJD1wk79/view?usp=sharing)
   - [点群データ 生データ LAS形式 3.5GB](https://drive.google.com/file/d/10zmXAxmwhferXEYXts4ZPoLQLX6_KX1H/view?usp=sharing)
 
+### 3Dボクセル（三次元空間ID）
+  - [3Dボクセル  Mapbox GL JS](https://furuhashilab.github.io/UNVT_Hackathon_Drone/#17/35.566931/139.402666)
+
+
 ### 3Dモデル
   - [3Dモデル FBX/OBJ形式 53MB/94MB](https://drive.google.com/file/d/10zmXAxmwhferXEYXts4ZPoLQLX6_KX1H/view?usp=sharing)
 
 ### オルソモザイク
   - [オルソモザイク 3cm分解能 GeoTIFF形式](https://drive.google.com/file/d/1KfGYY3oXrgx0uPH8iGkqBuaY3KnUY_tU/view?usp=sharing)
   - [XYZ画像タイル PNG形式 670MB](https://drive.google.com/file/d/1Ae6kj-A1Kxt5lhfVr2rntZb165dq3wi3/view?usp=sharing)
+  - [ウェブ地図実装例](https://dronebird.github.io/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/xyztiles/)
+  - [Mapbox GL JS v2 使用例](https://dronebird.github.io/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/xyztiles/mapboxgljs2_xyzrastertile.html)
 
 ### DSM
   - [DSM GeoTIFF形式](https://drive.google.com/file/d/19hFB599OsCdoiloIBw9sN0-K7sX-rNrh/view?usp=sharing)
 
 ## XYZタイル
+### メインXYZ画像タイル on OpenAerialMap
 * https://tiles.openaerialmap.org/61b9d9d7b26de1000596d622/0/61b9d9d7b26de1000596d623/{z}/{x}/{y}
+### サブXYZ画像タイル on GitHub Pages
+* https://dronebird.github.io/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/xyztiles/{z}/{x}/{y}.png
 
 ## ライセンス
-[© CrisisMappersJapan/DRONEBIRD/FuruhashiLab/YouthMappersAGU, CC BY 4.0](https://github.com/dronebird/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/blob/main/LICENSE.md)
+[© CrisisMappersJapan/DRONEBIRD/FuruhashiLab/YouthMappersAGU, CC BY 4.0 / ODbL 1.0](https://github.com/dronebird/oam_sagamihara20211215aoyamauniv1155mapconcierge00arw01/blob/main/LICENSE.md)
